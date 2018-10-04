@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  contacts.each do |name, value|
+  contacts.each do |name, data|
 
 
   #remember to return your newly altered contacts hash!
